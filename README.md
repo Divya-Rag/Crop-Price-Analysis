@@ -103,7 +103,7 @@ Outputs the "Top 3 mandis" per crop with a ranked bar chart.
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/crop-price-analysis.git
+git clone https://github.com/Divya-Rag/crop-price-analysis.git
 cd crop-price-analysis
 
 
